@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Curriculum Management System (CMS)](README.md)
+* [คู่มือการใช้งานระบบ Curriculum Management System (CMS)](README.md)
 * [1. ภาพรวมระบบ](overview.md)
 * [2. เมนูและหน้าจอหลัก](menu-and-screens.md)
 * [3. หน้า Dashboard (Homepage)](dashboard.md)
@@ -13,4 +13,5 @@
 * [10. การตรวจสอบข้อมูลอาจารย์](lecturers.md)
 * [11. สถานะหลักสูตร](statuses.md)
 * [12. คำถามที่พบบ่อย](faq.md)
-* [13. อภิธานศัพท์ (Glossary)](glossary.md)
+* [13. คำอธิบายคำศัพท์](glossary.md)
+* [Contact Us](contact-us.md)
