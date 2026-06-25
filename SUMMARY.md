@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ภาพรวมคู่มือ](README.md)
+* [Curriculum Management System (CMS)](README.md)
 * [1. ภาพรวมระบบ](overview.md)
 * [2. เมนูและหน้าจอหลัก](menu-and-screens.md)
 * [3. หน้า Dashboard (Homepage)](dashboard.md)

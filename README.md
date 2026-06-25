@@ -1,21 +1,48 @@
-# คู่มือการใช้งานระบบบริหารจัดการหลักสูตร
+---
+icon: apartment
+cover: .gitbook/assets/CMS PSU banner.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
+# Curriculum Management System (CMS)
 
 Curriculum Management System (CMS)
 
-*เวอร์ชัน: 1.1  |  วันที่ 22 มิถุนายน 2569*
+_เวอร์ชัน: 1.1 | วันที่ 22 มิถุนายน 2569_
 
----
+***
 
 > คู่มือฉบับนี้จัดทำสำหรับผู้ใช้งานระบบบริหารจัดการหลักสูตร (Curriculum Management System: CMS) มหาวิทยาลัยสงขลานครินทร์
 
----
+***
 
 ## 🛠 สำหรับผู้ดูแลเอกสาร
 
 **Source of truth = ไฟล์ `.md` ในรีโปนี้ (และการแก้ผ่าน GitBook แบบ sync 2 ทาง)** — แก้เนื้อหาคู่มือที่นี่เท่านั้น
 
-- การแก้ผ่าน GitBook จะ commit กลับมาที่ `.md` อัตโนมัติ / การแก้ `.md` แล้ว push จะอัปเดต GitBook อัตโนมัติ
-- รูปภาพอยู่ใน `assets/` — เพิ่ม/แทนที่แล้วอ้างอิงแบบ relative `![](assets/xxx.png)`
-- โครงเมนู sidebar กำหนดใน `SUMMARY.md`, หน้าแรกคือ `README.md`, ตั้งค่าใน `.gitbook.yaml`
+* การแก้ผ่าน GitBook จะ commit กลับมาที่ `.md` อัตโนมัติ / การแก้ `.md` แล้ว push จะอัปเดต GitBook อัตโนมัติ
+* รูปภาพอยู่ใน `assets/` — เพิ่ม/แทนที่แล้วอ้างอิงแบบ relative `![](assets/xxx.png)`
+* โครงเมนู sidebar กำหนดใน `SUMMARY.md`, หน้าแรกคือ `README.md`, ตั้งค่าใน `.gitbook.yaml`
 
 > หมายเหตุ: คู่มือชุดนี้ import ครั้งแรกจากไฟล์ Word (เวอร์ชัน 1.1) แล้วแก้เนื้อหาให้ตรงระบบจริงต่อใน `.md` — ปัจจุบันไม่ใช้ Word/สคริปต์แปลงแล้ว ยึด `.md` เป็นต้นฉบับ
