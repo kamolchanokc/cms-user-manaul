@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python (converter)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+*.swp
+
+# Temp Word lock files
+~$*.docx

@@ -1,0 +1,16 @@
+# Table of contents
+
+* [ภาพรวมคู่มือ](README.md)
+* [1. ภาพรวมระบบ](overview.md)
+* [2. เมนูและหน้าจอหลัก](menu-and-screens.md)
+* [3. หน้า Dashboard (Homepage)](dashboard.md)
+* [4. การดูข้อมูลหลักสูตร](view-curriculum.md)
+* [5. การเพิ่มหลักสูตรใหม่](add-curriculum.md)
+* [6. การปรับปรุงหลักสูตร](revise-curriculum.md)
+* [7. การปรับปรุงหลักสูตรเล็กน้อย](minor-revision.md)
+* [8. การปิดหลักสูตร](close-curriculum.md)
+* [9. การจัดการรายวิชา](subjects.md)
+* [10. การตรวจสอบข้อมูลอาจารย์](lecturers.md)
+* [11. สถานะหลักสูตร](statuses.md)
+* [12. คำถามที่พบบ่อย](faq.md)
+* [13. อภิธานศัพท์ (Glossary)](glossary.md)
