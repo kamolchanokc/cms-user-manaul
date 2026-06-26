@@ -38,15 +38,15 @@ layout:
 
 {% columns %}
 {% column valign="middle" %}
-<p align="center"><a href="overview.md"><mark style="color:$tint;"><strong>ภาพรวมระบบ</strong></mark></a></p>
+<p align="center"><a href="overview.md"><mark style="color:blue;"><strong>ภาพรวมระบบ</strong></mark></a></p>
 {% endcolumn %}
 
 {% column valign="middle" %}
-<p align="center"><a href="menu-and-screens.md"><mark style="color:$tint;"><strong>เมนูและหน้าจอหลัก</strong></mark></a></p>
+<p align="center"><a href="menu-and-screens.md"><mark style="color:blue;"><strong>เมนูและหน้าจอหลัก</strong></mark></a></p>
 {% endcolumn %}
 
 {% column valign="middle" %}
-<p align="center"><a href="dashboard.md"><mark style="color:$primary;"><strong>หน้า Dashboard</strong></mark></a> </p>
+<p align="center"><a href="dashboard.md"><mark style="color:blue;"><strong>หน้า Dashboard</strong></mark></a> </p>
 {% endcolumn %}
 {% endcolumns %}
 
