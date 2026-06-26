@@ -1,4 +1,5 @@
 ---
+description: 'เวอร์ชัน: 1.1 | วันที่ 22 มิถุนายน 2569'
 icon: apartment
 cover: .gitbook/assets/cms-login-overview.png.png
 coverY: 0
@@ -27,14 +28,10 @@ layout:
 
 # คู่มือการใช้งานระบบ Curriculum Management System (CMS)
 
-<p align="center">Curriculum Management System (CMS) - User Manual</p>
-
-<p align="center"><em>เวอร์ชัน: 1.1 | วันที่ 22 มิถุนายน 2569</em></p>
-
 ***
 
-{% hint style="info" icon="book-spine" %}
-#### <mark style="color:blue;">คู่มือฉบับนี้จัดทำสำหรับผู้ใช้งานระบบบริหารจัดการหลักสูตร (Curriculum Management System: CMS) มหาวิทยาลัยสงขลานครินทร์</mark>
+{% hint style="info" icon="sparkles" %}
+<mark style="color:blue;">คู่มือฉบับนี้จัดทำสำหรับผู้ใช้งาน</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**ระบบบริหารจัดการหลักสูตร (Curriculum Management System: CMS)**</mark>&#x20;
 {% endhint %}
 
 ### เริ่มต้นใช้งาน
@@ -53,8 +50,7 @@ layout:
 {% endcolumn %}
 {% endcolumns %}
 
-***
-
+*
 * 📋 [ดูข้อมูลหลักสูตร](view-curriculum.md) — ค้นหาและดูหลักสูตรที่มีในระบบ
 * ➕ [เพิ่มหลักสูตรใหม่](add-curriculum.md) — สร้างหลักสูตร → อนุมัติ PLOs → กรอกรายละเอียดหลักสูตร → อนุมัติหลักสูตร
 * 🔁 [ปรับปรุงหลักสูตร](revise-curriculum.md)&#x20;
