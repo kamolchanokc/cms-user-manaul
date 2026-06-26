@@ -4,19 +4,25 @@ icon: circle-info
 
 # Contact Us
 
-{% hint style="info" icon="sparkles" %}
-**จัดทำโดย: ทีมพัฒนาระบบ CMS**
+{% hint style="success" icon="sparkles" %}
+[**จัดทำโดย: ทีมพัฒนาระบบ CMS**](#user-content-fn-1)[^1]
 {% endhint %}
 
 
 
 **ติดต่อสอบถาม:**
 
-> [ EMAIL : **cms@psu.ac.th**](#user-content-fn-1)[^1]
+{% hint style="danger" icon="envelope" %}
+## **EMAIL :&#x20;**<mark style="color:red;">**cms@psu.ac.th**</mark>
+{% endhint %}
 
-> LINE Official Account : **@034yjfxc**
+{% hint style="success" icon="line" %}
+## **LINE Official Account :&#x20;**<mark style="color:green;">**@034yjfxc**</mark>
+{% endhint %}
 
-> หมายเลขโทรศัพท์:  [**0-7428-9221-2**](#user-content-fn-1)[^1]
+{% hint style="info" icon="phone" %}
+## **หมายเลขโทรศัพท์ :**  [<mark style="color:cyan;">**0-7428-9221-2**</mark>](#user-content-fn-1)[^1]
+{% endhint %}
 
 
 

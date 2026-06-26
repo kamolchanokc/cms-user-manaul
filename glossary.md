@@ -28,12 +28,3 @@ icon: sparkles
 | Skill Transcript   | เอกสารแสดงทักษะ/สมรรถนะที่นักศึกษาได้รับ                                                                                                 |
 | Stepper            | แถบแสดงลำดับขั้นตอนด้านบนของหน้าจอ                                                                                                       |
 
-จัดทำโดย: ทีมพัฒนาระบบ CMS
-
-ติดต่อสอบถาม:
-
-EMAIL : cms@psu.ac.th
-
-LINE Official Account : @034yjfxc
-
-หมายเลขโทรศัพท์ 0-7428-9221-2
