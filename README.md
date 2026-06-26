@@ -28,6 +28,8 @@ layout:
 
 # คู่มือการใช้งานระบบ Curriculum Management System (CMS)
 
+
+
 ***
 
 {% hint style="info" icon="sparkles" %}
@@ -41,16 +43,17 @@ layout:
 <p align="center"><a href="overview.md"><mark style="color:blue;"><strong>ภาพรวมระบบ</strong></mark></a></p>
 {% endcolumn %}
 
-{% column valign="middle" %}
-<p align="center"><a href="menu-and-screens.md"><mark style="color:blue;"><strong>เมนูและหน้าจอหลัก</strong></mark></a></p>
+{% column %}
+&#x20;[**เมนูและหน้าจอหลัก**](menu-and-screens.md)
 {% endcolumn %}
 
-{% column valign="middle" %}
-<p align="center"><a href="dashboard.md"><mark style="color:blue;"><strong>หน้า Dashboard</strong></mark></a> </p>
+{% column %}
+&#x20;[**หน้า Dashboard**](dashboard.md)
 {% endcolumn %}
 {% endcolumns %}
 
-*
+***
+
 * 📋 [ดูข้อมูลหลักสูตร](view-curriculum.md) — ค้นหาและดูหลักสูตรที่มีในระบบ
 * ➕ [เพิ่มหลักสูตรใหม่](add-curriculum.md) — สร้างหลักสูตร → อนุมัติ PLOs → กรอกรายละเอียดหลักสูตร → อนุมัติหลักสูตร
 * 🔁 [ปรับปรุงหลักสูตร](revise-curriculum.md)&#x20;
