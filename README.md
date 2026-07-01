@@ -36,21 +36,13 @@ layout:
 <mark style="color:blue;">คู่มือฉบับนี้จัดทำสำหรับผู้ใช้งาน</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**ระบบบริหารจัดการหลักสูตร (Curriculum Management System: CMS)**</mark>&#x20;
 {% endhint %}
 
-### เริ่มต้นใช้งาน
+> ### [<mark style="color:cyan;">เมนูแนะนำ</mark> ](#user-content-fn-1)[^1]<mark style="color:cyan;">!</mark>
 
-{% columns %}
-{% column valign="middle" %}
-<p align="center"><a href="overview.md"><mark style="color:blue;"><strong>ภาพรวมระบบ</strong></mark></a></p>
-{% endcolumn %}
+<p align="center"><a href="overview.md"><mark style="color:cyan;"><strong>ภาพรวมระบบ</strong></mark></a></p>
 
-{% column %}
-&#x20;[**เมนูและหน้าจอหลัก**](menu-and-screens.md)
-{% endcolumn %}
+<p align="center"> <a href="curriculum-form.md"><mark style="color:red;"><strong>การกรอกข้อมูลรายละเอียดหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)</strong></mark></a></p>
 
-{% column %}
-&#x20;[**หน้า Dashboard**](dashboard.md)
-{% endcolumn %}
-{% endcolumns %}
+<p align="center"> <a href="curriculum-sent-approval.md"><mark style="color:red;"><strong>การส่งอนุมัติหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)</strong></mark></a></p>
 
 ***
 
@@ -70,3 +62,5 @@ layout:
 {% endhint %}
 
 ***
+
+[^1]: 
