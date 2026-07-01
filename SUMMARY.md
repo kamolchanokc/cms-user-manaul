@@ -12,6 +12,7 @@
 * [9. การจัดการรายวิชา](subjects.md)
 * [10. การตรวจสอบข้อมูลอาจารย์](lecturers.md)
 * [11. สถานะหลักสูตร](statuses.md)
+* [การกรอกข้อมูลรายละเอียดหลักสูตร](add-curriculum-1.md)
 * [12. คำถามที่พบบ่อย](faq.md)
 * [13. คำอธิบายคำศัพท์](glossary.md)
 * [Contact Us](contact-us.md)
