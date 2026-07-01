@@ -28,21 +28,25 @@ layout:
 
 # คู่มือการใช้งานระบบ Curriculum Management System (CMS)
 
-
-
 ***
 
 {% hint style="info" icon="sparkles" %}
 <mark style="color:blue;">คู่มือฉบับนี้จัดทำสำหรับผู้ใช้งาน</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**ระบบบริหารจัดการหลักสูตร (Curriculum Management System: CMS)**</mark>&#x20;
 {% endhint %}
 
-> ### [<mark style="color:cyan;">เมนูแนะนำ</mark> ](#user-content-fn-1)[^1]<mark style="color:cyan;">!</mark>
+## 💡 [เมนูแนะนำ ](#user-content-fn-1)[^1]
 
-<p align="center"><a href="overview.md"><mark style="color:cyan;"><strong>ภาพรวมระบบ</strong></mark></a></p>
+{% hint style="success" icon="grid-2" %}
+[<mark style="color:cyan;">**ภาพรวมระบบ**</mark>](overview.md)
+{% endhint %}
 
-<p align="center"> <a href="curriculum-form.md"><mark style="color:red;"><strong>การกรอกข้อมูลรายละเอียดหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)</strong></mark></a></p>
+{% hint style="success" icon="pencil" %}
+&#x20;[<mark style="color:cyan;">การกรอกข้อมูลรายละเอียดหลักสูตร</mark> <mark style="color:cyan;"></mark><mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)**</mark>](curriculum-form.md)
+{% endhint %}
 
-<p align="center"> <a href="curriculum-sent-approval.md"><mark style="color:red;"><strong>การส่งอนุมัติหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)</strong></mark></a></p>
+{% hint style="success" icon="paper-plane-top" %}
+&#x20;[<mark style="color:cyan;">การส่งอนุมัติหลักสูตร</mark> <mark style="color:cyan;"></mark><mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)**</mark>](curriculum-sent-approval.md)
+{% endhint %}
 
 ***
 
