@@ -34,6 +34,13 @@ layout:
 <mark style="color:blue;">คู่มือฉบับนี้จัดทำสำหรับผู้ใช้งาน</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**ระบบบริหารจัดการหลักสูตร (Curriculum Management System: CMS)**</mark>&#x20;
 {% endhint %}
 
+{% hint style="info" icon="magnifying-glass" %}
+**ค้นหาและถาม AI ได้**
+
+* 🔍 **พิมพ์ค้นหา** — กดช่องค้นหา (Search) ที่มุมบนของคู่มือ หรือกด `Ctrl + K` เพื่อค้นหาหัวข้อ/คำที่ต้องการได้ทั้งเล่ม
+* 🤖 **ถาม AI Assistant** — พิมพ์คำถามเป็นภาษาไทยในช่องค้นหา แล้วเลือก **"ถาม AI / Ask"** ระบบผู้ช่วยอัจฉริยะจะตอบโดยอ้างอิงจากเนื้อหาคู่มือนี้ให้ทันที
+{% endhint %}
+
 ## 💡 [เมนูแนะนำ ](#user-content-fn-1)[^1]
 
 {% hint style="success" icon="grid-2" %}
