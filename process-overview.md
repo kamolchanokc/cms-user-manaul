@@ -11,7 +11,7 @@ icon: diagram-project
 > 🟦 **สีน้ำเงิน = ผู้ดูแลระบบ (Admin)** : สร้างหลักสูตรใหม่ ปรับปรุงหลักสูตร ตั้งค่าข้อมูลพื้นฐานของระบบ และดูแลข้อมูลกลาง รวมทั้งกรอกข้อมูลการอนุมัติหลักสูตรทุกขั้นตอน
 
 ```mermaid
-flowchart LR
+flowchart TD
     classDef staff fill:#F5A623,stroke:#C77C11,color:#1A1A1A;
     classDef admin fill:#1F4E79,stroke:#12395C,color:#FFFFFF;
 
