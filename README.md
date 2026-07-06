@@ -1,5 +1,5 @@
 ---
-description: 'เวอร์ชัน: 1.1 | วันที่ 22 มิถุนายน 2569'
+description: 'เวอร์ชัน: 1.2 | วันที่ 6 กรกฎาคม 2569'
 icon: apartment
 cover: .gitbook/assets/cms-login-overview.png.png
 coverY: 0
@@ -35,15 +35,15 @@ layout:
 {% endhint %}
 
 {% hint style="info" icon="magnifying-glass" %}
-### **ค้นหาและถาม AI ของคู่มือนี้ !!!**
+### **ค้นหาและถาม AI ของคู่มือนี้ ‼️**
 
 * **พิมพ์ค้นหา** — กดช่องค้นหา (Search) ที่มุมบนของคู่มือ หรือกด `Ctrl + K` เพื่อค้นหาหัวข้อ/คำถามที่ต้องการได้
 * **ถาม AI Assistant** — กดที่ปุ่มไอคอนที่ติดกับช่องค้นหา `Ctrl + I` พิมพ์คำถามเป็นภาษาไทยในช่องค้นหา จากนั้นระบบผู้ช่วยอัจฉริยะจะตอบโดยอ้างอิงจากเนื้อหาคู่มือนี้ให้ทันที
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## 💡 เมนูแนะนำ
 
@@ -61,16 +61,19 @@ layout:
 
 ***
 
-* 📋 [ดูข้อมูลหลักสูตร](view-curriculum.md) — ค้นหาและดูหลักสูตรที่มีในระบบ
-* ➕ [เพิ่มหลักสูตรใหม่](add-curriculum.md) — สร้างหลักสูตร → อนุมัติ PLOs → กรอกรายละเอียดหลักสูตร → อนุมัติหลักสูตร
-* 🔁 [ปรับปรุงหลักสูตร](revise-curriculum.md)
-* 🔂 [ปรับปรุงหลักสูตรเล็กน้อย](minor-revision.md)
-* ⛔ [ปิดหลักสูตร](close-curriculum.md)
-* 📚 [การจัดการรายวิชา](subjects.md)
-* 👩‍🏫 [ตรวจสอบข้อมูลอาจารย์](lecturers.md)
-* 🏷️ [สถานะหลักสูตร](statuses.md)
-* ❓ [คำถามที่พบบ่อย](faq.md)
-* 📖 [อภิธานศัพท์](glossary.md)
+### **สารบัญคู่มือ**
+
+* [หน้า Dashboard (Homepage)](dashboard.md)
+* [ดูข้อมูลหลักสูตร](view-curriculum.md)
+* [เพิ่มหลักสูตรใหม่](add-curriculum.md)
+* [ปรับปรุงหลักสูตร](revise-curriculum.md)
+* [ปรับปรุงหลักสูตรเล็กน้อย](minor-revision.md)
+* [ปิดหลักสูตร](close-curriculum.md)
+* [การจัดการรายวิชา](subjects.md)
+* [ตรวจสอบข้อมูลอาจารย์](lecturers.md)
+* [สถานะหลักสูตร](statuses.md)
+* [คำถามที่พบบ่อย](faq.md)
+* [อภิธานศัพท์](glossary.md)
 
 {% hint style="warning" icon="lightbulb" %}
 แนะนำเริ่มที่ [หน้า Dashboard](dashboard.md) เพื่อดูภาพรวมสถานะและงานที่ต้องดำเนินการ และดู [เมนูและหน้าจอหลัก](menu-and-screens.md) เพื่อทำความรู้จักการใช้งานเบื้องต้น
