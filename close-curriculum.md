@@ -31,7 +31,7 @@ icon: square-x
 4. ข้อมูลนักศึกษาคงค้าง ที่ยังไม่สำเร็จการศึกษา — ระบบอาจตรวจสอบและแสดงจำนวนคงค้างให้ยืนยัน
 5. กรอกข้อมูลที่เกี่ยวข้อง เช่น เหตุผลการปิดหลักสูตร — ระบุเหตุผลให้ชัดเจน (เช่น ปรับปรุงเป็นหลักสูตรใหม่ ความต้องการลดลง)
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
