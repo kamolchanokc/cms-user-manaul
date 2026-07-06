@@ -10,6 +10,10 @@ icon: books
 2. ค้นหารายวิชาโดยใช้ช่องค้นหาหรือตัวกรอง (รหัสวิชา / ชื่อวิชา)
 3. คลิกที่รายวิชาเพื่อดูรายละเอียด
 
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+
+
 **ข้อมูลที่ดูได้ในรายละเอียดรายวิชา**
 
 | แท็บ                 | เนื้อหา                                                 |
@@ -20,6 +24,18 @@ icon: books
 | อาจารย์ผู้สอน        | รายชื่ออาจารย์ที่รับผิดชอบรายวิชา                       |
 | ประวัติการแก้ไข      | บันทึกการเปลี่ยนแปลงทั้งหมดของรายวิชา                   |
 | การอนุมัติ           | สถานะและประวัติการอนุมัติรายวิชา                        |
+
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**การดูสังกัดรายวิชา :** กดที่ปุ่มไอคอน **สังกัด/หลักสูตรที่ใช้งาน**
+
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 9.2 จัดการรายวิชากลาง
 
