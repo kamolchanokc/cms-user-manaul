@@ -1,7 +1,9 @@
 # Table of contents
 
 * [คู่มือการใช้งานระบบ Curriculum Management System (CMS)](README.md)
-* [ภาพรวมกระบวนการทั้งหมด (Flow)](process-overview.md)
+  * [ภาพรวมกระบวนการทั้งหมด (Flow)](readme/process-overview.md)
+* [การกรอกข้อมูลรายละเอียดหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)](curriculum-form.md)
+* [การส่งอนุมัติหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)](curriculum-sent-approval.md)
 * [1. ภาพรวมระบบ](overview.md)
 * [2. เมนูและหน้าจอหลัก](menu-and-screens.md)
 * [3. หน้า Dashboard (Homepage)](dashboard.md)
@@ -13,8 +15,6 @@
 * [9. การจัดการรายวิชา](subjects.md)
 * [10. การตรวจสอบข้อมูลอาจารย์](lecturers.md)
 * [11. สถานะหลักสูตร](statuses.md)
-* [การกรอกข้อมูลรายละเอียดหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)](curriculum-form.md)
-* [การส่งอนุมัติหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)](curriculum-sent-approval.md)
 * [คำถามที่พบบ่อย](faq.md)
 * [คำอธิบายคำศัพท์](glossary.md)
 * [Contact Us](contact-us.md)

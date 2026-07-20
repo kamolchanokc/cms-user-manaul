@@ -8,6 +8,7 @@ layout:
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -77,6 +78,22 @@ layout:
 
 {% hint style="warning" icon="lightbulb" %}
 แนะนำเริ่มที่ [หน้า Dashboard](dashboard.md) เพื่อดูภาพรวมสถานะและงานที่ต้องดำเนินการ และดู [เมนูและหน้าจอหลัก](menu-and-screens.md) เพื่อทำความรู้จักการใช้งานเบื้องต้น
+{% endhint %}
+
+***
+
+{% hint style="info" icon="envelope-dot" %}
+**EMAIL :&#x20;**<mark style="color:red;">**cms@psu.ac.th**</mark>
+{% endhint %}
+
+{% hint style="success" icon="line" %}
+**LINE Official Account :&#x20;**<mark style="color:green;">**@034yjfxc**</mark>
+{% endhint %}
+
+<div align="left" data-with-frame="true"><figure><img src=".gitbook/assets/image (30).png" alt="" width="180"><figcaption></figcaption></figure></div>
+
+{% hint style="info" icon="phone" %}
+**หมายเลขโทรศัพท์ :** <mark style="color:blue;">**0-7428-9221-2**</mark>
 {% endhint %}
 
 ***
