@@ -90,7 +90,7 @@ layout:
 **LINE Official Account :&#x20;**<mark style="color:green;">**@034yjfxc**</mark>
 {% endhint %}
 
-<div align="left" data-with-frame="true"><figure><img src=".gitbook/assets/image (30).png" alt="" width="180"><figcaption></figcaption></figure></div>
+<div align="left" data-with-frame="true"><figure><img src=".gitbook/assets/image (28).png" alt="" width="180"><figcaption></figcaption></figure></div>
 
 {% hint style="info" icon="phone" %}
 **หมายเลขโทรศัพท์ :** <mark style="color:blue;">**0-7428-9221-2**</mark>
