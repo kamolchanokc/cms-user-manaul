@@ -3,6 +3,7 @@
 * [คู่มือการใช้งานระบบ Curriculum Management System (CMS)](README.md)
 * [ภาพรวมกระบวนการทั้งหมด (Flow)](process-overview.md)
 * [การกรอกข้อมูลรายละเอียดหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)](curriculum-form.md)
+* [โครงสร้างหลักสูตร (หมวดที่ 3) — คู่มือฉบับละเอียด](curriculum-structure.md)
 * [การส่งอนุมัติหลักสูตร สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)](curriculum-sent-approval.md)
 * [1. ภาพรวมระบบ](overview.md)
 * [2. เมนูและหน้าจอหลัก](menu-and-screens.md)
