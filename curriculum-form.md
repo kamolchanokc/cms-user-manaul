@@ -36,9 +36,9 @@ icon: pencil
 หลักสูตรจะ **ส่งอนุมัติได้เมื่อครบ 100%** (ทุกหมวดที่นับเป็นสีเขียวครบ)
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" icon="lightbulb" %}
 แนวทางการกรอกที่แนะนำ กรอกจากหมวดที่ 1 ไล่ไปตามลำดับ เพราะข้อมูลในหมวดต้น ๆ (เช่น รายวิชา และ PLO) จะถูกอ้างอิงในหมวดหลัง (เช่น การ mapping และกลยุทธ์การสอน)
@@ -132,7 +132,7 @@ icon: pencil
 |                                                         | **PLOs K/A/S**                                                        | <h3><mark style="color:red;">*</mark></h3> |
 
 {% hint style="info" %}
-**อยากดูรายละเอียดหมวดนี้แบบเจาะลึกทุกแท็บย่อย (จัดการรายวิชา, แผนการศึกษา, PLO รายวิชา, กลยุทธ์และวิธีการสอน, PLOs & K A S พร้อม diagram ประกอบ)?** กดลิงก์นี้ 👉 **[การกรอกข้อมูลโครงสร้างหลักสูตร](curriculum-structure.md)** หรือดูที่เมนูด้านซ้ายหัวข้อ **"การกรอกข้อมูลโครงสร้างหลักสูตร"**
+**อยากดูรายละเอียดหมวดนี้แบบเจาะลึกทุกแท็บย่อย (จัดการรายวิชา, แผนการศึกษา, PLO รายวิชา, กลยุทธ์และวิธีการสอน, PLOs & K A S พร้อม diagram ประกอบ)?** กดลิงก์นี้ 👉 [**การกรอกข้อมูลโครงสร้างหลักสูตร**](curriculum-structure.md) หรือดูที่เมนูด้านซ้ายหัวข้อ **"การกรอกข้อมูลโครงสร้างหลักสูตร"**
 {% endhint %}
 
 ### หมวดที่ 4 — งบประมาณและอาจารย์
