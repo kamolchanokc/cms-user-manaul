@@ -33,7 +33,7 @@ icon: sitemap
 
 ## **🟢** รายละเอียดแท็บ "แผนการศึกษา"
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 **ลำดับชั้นทั้งหมด (จากใหญ่สุดไปเล็กสุด)**
 
@@ -159,8 +159,6 @@ flowchart TD
 
 <div data-with-frame="true"><figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure></div>
 
-
-
 **🆕 หน่วยกิต/ระยะเวลาเฉพาะของแต่ละตัวเลือก**
 
 แต่ละตัวเลือกโครงสร้างตอนนี้กรอก **หน่วยกิตรวม**, **ระยะเวลาการศึกษา**, และ **ระยะเวลาที่ขอขยายได้** เป็นของตัวเองแยกจากแผนการศึกษาได้แล้ว
@@ -277,12 +275,16 @@ flowchart TD
 2. คลิกที่ช่องตัดกันระหว่างรายวิชากับ PLO เพื่อ**ใส่ระดับที่เลือกไว้ลงในช่องนั้นทันที**
 3. คลิกช่องเดิมซ้ำอีกครั้ง (ที่มีค่าเดียวกับตัวที่เลือกอยู่) เพื่อ**ยกเลิก/ล้างค่า**ในช่องนั้น
 
-<table><thead><tr><th width="140">ระดับ</th><th>สี</th></tr></thead><tbody><tr><td><strong>I</strong></td><td>🔵 ฟ้า</td></tr><tr><td><strong>R</strong></td><td>🟡 เหลือง/ส้ม</td></tr><tr><td><strong>M</strong></td><td>🟢 เขียว</td></tr></tbody></table>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure></div>
+
+<table><thead><tr><th width="140">ระดับ</th><th>สี</th></tr></thead><tbody><tr><td><strong>I</strong></td><td>🔵 ฟ้า</td></tr><tr><td><strong>R</strong></td><td>🟡 ส้ม</td></tr><tr><td><strong>M</strong></td><td>🟢 เขียว</td></tr></tbody></table>
 
 > ℹ️ รายวิชา/กลุ่มย่อยที่ใช้ร่วมกันหลายแผน อาจมีค่าต่างกันในแต่ละแผน — กรณีนี้ช่องจะแสดงเป็นป้ายเล็กหลายอันซ้อนกันแทนตัวอักษรเดียว ให้เอาเมาส์ไปวางไว้ที่ช่องนั้นเพื่อดูรายละเอียดว่าแผนไหนตั้งค่าอะไรไว้
 
 * ปุ่ม **"บันทึก"** — เปิดใช้งานเฉพาะเมื่อมีการเปลี่ยนแปลงที่ยังไม่บันทึก
 * ปุ่ม **"รีเซ็ท"** — ล้างค่าที่จับคู่ไว้ทั้งหมด (ของทั้งหมดหรือเฉพาะแผนที่กรองอยู่) มีกล่องยืนยันก่อนเสมอเพราะข้อมูลจะถูกล้างและบันทึกทันที
+
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## **🟢** แท็บย่อย: กลยุทธ์และวิธีการสอน
 
@@ -290,10 +292,14 @@ flowchart TD
 
 * แถว PLO แบ่งเป็น 2 กลุ่ม: **PLOs ที่ผูกกับทุกแผนการศึกษา** (แสดงรวมไว้บนสุด) และ **PLOs เฉพาะบางแผน** (แยกหัวข้อเป็นชื่อแผนแต่ละแผน)
 
-<table><thead><tr><th width="160">สีขอบช่อง</th><th>ความหมาย</th></tr></thead><tbody><tr><td>🟠 ส้ม</td><td>กรอกแล้วแต่ยังไม่ได้กด "บันทึก" (รอบันทึก)</td></tr><tr><td>🟢 เขียว</td><td>บันทึกแล้ว</td></tr><tr><td>🔴 แดง</td><td>กรอกไม่ครบ (ดูหัวข้อด้านล่าง)</td></tr></tbody></table>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure></div>
+
+<table><thead><tr><th width="160">สีขอบช่อง</th><th>ความหมาย</th></tr></thead><tbody><tr><td>🟠 ส้ม</td><td>กรอกแล้วแต่ยังไม่ได้กด "บันทึก" (รอบันทึก)</td></tr><tr><td>🟢 เขียว</td><td>บันทึกแล้ว</td></tr></tbody></table>
+
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
-**กติกาการกรอก:** แต่ละแถว (PLO) ต้อง**กรอกให้ครบทั้ง 3 ช่อง หรือเว้นว่างทั้งหมด** — กรอกแค่บางช่องจะถือว่าไม่สมบูรณ์ ระบบจะฟ้องเตือนใต้แถวนั้นให้กรอกให้ครบหรือเคลียร์ให้ว่างทั้งหมด
+แต่ละแถว (PLO) ต้อง**กรอกให้ครบทั้ง 3 ช่อง หรือเว้นว่างทั้งหมด** — กรอกแค่บางช่องจะถือว่าไม่สมบูรณ์ ระบบจะฟ้องเตือนใต้แถวนั้นให้กรอกให้ครบหรือเคลียร์ให้ว่างทั้งหมด
 {% endhint %}
 
 * ปุ่ม **"บันทึก"** มีกล่องยืนยันก่อนทุกครั้ง และ **"ยกเลิก"** จะคืนค่าทุกช่องกลับเป็นค่าที่บันทึกไว้ล่าสุด (มีกล่องยืนยันเช่นกัน)
@@ -308,16 +314,28 @@ K/A/S บังคับกรอกเฉพาะ**หลักสูตรท
 
 **โหมด "จัดการคลัง K/A/S"**
 
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure></div>
+
 แบ่งเป็น 3 แท็บย่อยตามประเภท **K / A / S** แต่ละแท็บมีช่องค้นหา (รหัส/รายละเอียด) และปุ่ม **"เพิ่ม K" / "เพิ่ม A" / "เพิ่ม S"** เพื่อเพิ่มรายการใหม่เข้าคลัง
+
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="220">เครื่องมือ</th><th>รายละเอียด</th></tr></thead><tbody><tr><td><strong>เลือกรายการ</strong></td><td>เข้าโหมดติ๊กเลือกหลายรายการ พร้อมปุ่ม "เลือกทั้งหมด" และ <strong>"ลบรายการที่เลือก"</strong> เพื่อลบพร้อมกัน</td></tr><tr><td><strong>นำเข้า K/A/S ด้วย Excel</strong></td><td>เพิ่มรายการจำนวนมากพร้อมกันจากไฟล์ Excel</td></tr><tr><td><strong>ลากเรียงลำดับ</strong></td><td>ลากรายการในคลังเพื่อจัดลำดับการแสดงผลใหม่ได้โดยตรง</td></tr></tbody></table>
 
 **โหมด "PLOs K/A/S"**
 
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure></div>
+
 ตารางจับคู่ระหว่าง **PLO** (แถว จัดกลุ่มแบบเดียวกับแท็บกลยุทธ์และวิธีการสอน — ผูกทุกแผนไว้บนสุด แล้วตามด้วยกลุ่มเฉพาะแต่ละแผน) กับ **ประเภท K / A / S** (คอลัมน์) แต่ละช่องแสดงรายการ K/A/S ที่จับคู่ไว้แล้วเป็นชิป พร้อมปุ่ม **"เลือก"** ท้ายช่องเพื่อเปิดหน้าต่างเลือกจากคลัง (เลือกได้หลายรายการต่อช่อง)
 
 * กดเครื่องหมาย **✕ บนชิป** เพื่อนำรายการนั้นออกจาก PLO ข้อนั้น (มีกล่องยืนยันก่อนทุกครั้ง)
 * การเพิ่ม/นำออกแต่ละครั้ง**บันทึกลงระบบทันที** ไม่ต้องกดปุ่มบันทึกรวมท้ายหน้าเหมือนตารางอื่น
+
+<div><figure><img src=".gitbook/assets/image (44).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (45).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 ต้องมีรายการอยู่ในคลัง (โหมด "จัดการคลัง K/A/S") ก่อน จึงจะกด **"เลือก"** เพื่อจับคู่กับ PLO ได้ — ถ้าคลังของประเภทนั้นยังว่าง ปุ่ม "เลือก" ของคอลัมน์นั้นจะถูกปิดใช้งาน
