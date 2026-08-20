@@ -48,17 +48,29 @@ layout:
 
 ## 💡 เมนูแนะนำ
 
-{% hint style="success" icon="grid-2" %}
+{% hint style="info" icon="grid-4" %}
 [<mark style="color:cyan;">**ภาพรวมระบบ**</mark>](overview.md)
 {% endhint %}
 
-{% hint style="success" icon="pencil" %}
-[<mark style="color:cyan;">การกรอกข้อมูลรายละเอียดหลักสูตร</mark> <mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)**</mark>](curriculum-form.md)
+{% columns %}
+{% column %}
+{% hint style="danger" icon="sitemap" %}
+[**การกรอกข้อมูลโครงสร้างหลักสูตร สำหรับผู้จัดทำหลักสูตร**](curriculum-structure.md)
 {% endhint %}
+{% endcolumn %}
 
-{% hint style="success" icon="paper-plane-top" %}
-[<mark style="color:cyan;">การส่งอนุมัติหลักสูตร</mark> <mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)**</mark>](curriculum-sent-approval.md)
+{% column %}
+{% hint style="success" icon="pencil" %}
+[<mark style="color:cyan;">การกรอกข้อมูลรายละเอียดหลักสูตร</mark> <mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร**</mark>](curriculum-form.md)
 {% endhint %}
+{% endcolumn %}
+
+{% column %}
+{% hint style="warning" icon="paper-plane-top" %}
+[<mark style="color:cyan;">การส่งอนุมัติหลักสูตร</mark> <mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร**</mark>](curriculum-sent-approval.md)
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
