@@ -88,7 +88,7 @@ icon: sitemap
 
 ขั้นตอนนี้ยาวที่สุด แบ่งเป็นขั้นย่อย 2.1 – 2.9 ดังนี้
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 ### 2.1 ทำความเข้าใจลำดับชั้นก่อนเริ่มกรอก
 
@@ -498,6 +498,8 @@ K A S = **K**nowledge (ความรู้) / **A**ttitude (ทัศนคต
 * **บันทึกทันที**ทุกครั้งที่เพิ่ม/นำออก ไม่ต้องกดบันทึกรวม
 {% endstep %}
 {% endstepper %}
+
+<div><figure><img src=".gitbook/assets/image (44).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (45).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 ปุ่ม "เลือก" กดไม่ได้? แปลว่าคลังของประเภทนั้นยังว่าง — กลับไปเพิ่มรายการในโหมด "จัดการคลัง K/A/S" ก่อน

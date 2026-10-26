@@ -25,6 +25,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # คู่มือการใช้งานระบบ Curriculum Management System (CMS)
@@ -36,29 +38,38 @@ layout:
 {% endhint %}
 
 {% hint style="info" icon="magnifying-glass" %}
-### **ค้นหาและถาม AI ของคู่มือนี้ ‼️**
+### **การค้นหาหัวข้อของคู่มือนี้ ‼️**
 
-* **พิมพ์ค้นหา** — กดช่องค้นหา (Search) ที่มุมบนของคู่มือ หรือกด `Ctrl + K` เพื่อค้นหาหัวข้อ/คำถามที่ต้องการได้
-* **ถาม AI Assistant** — กดที่ปุ่มไอคอนที่ติดกับช่องค้นหา `Ctrl + I` พิมพ์คำถามเป็นภาษาไทยในช่องค้นหา จากนั้นระบบผู้ช่วยอัจฉริยะจะตอบโดยอ้างอิงจากเนื้อหาคู่มือนี้ให้ทันที
+* **พิมพ์ค้นหา** — กดช่องค้นหา (Search) ที่มุมบนของคู่มือ หรือกด `Ctrl + K` เพื่อค้นหาหัวข้อที่ต้องการได้
 {% endhint %}
-
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## 💡 เมนูแนะนำ
 
-{% hint style="success" icon="grid-2" %}
+{% hint style="info" icon="grid-4" %}
 [<mark style="color:cyan;">**ภาพรวมระบบ**</mark>](overview.md)
 {% endhint %}
 
-{% hint style="success" icon="pencil" %}
-[<mark style="color:cyan;">การกรอกข้อมูลรายละเอียดหลักสูตร</mark> <mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)**</mark>](curriculum-form.md)
+{% columns %}
+{% column %}
+{% hint style="danger" icon="sitemap" %}
+[**การกรอกข้อมูลโครงสร้างหลักสูตร สำหรับผู้จัดทำหลักสูตร**](curriculum-structure.md)
 {% endhint %}
+{% endcolumn %}
 
-{% hint style="success" icon="paper-plane-top" %}
-[<mark style="color:cyan;">การส่งอนุมัติหลักสูตร</mark> <mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร (เจ้าหน้าที่ระดับคณะ)**</mark>](curriculum-sent-approval.md)
+{% column %}
+{% hint style="success" icon="pencil" %}
+[<mark style="color:cyan;">การกรอกข้อมูลรายละเอียดหลักสูตร</mark> <mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร**</mark>](curriculum-form.md)
 {% endhint %}
+{% endcolumn %}
+
+{% column %}
+{% hint style="warning" icon="paper-plane-top" %}
+[<mark style="color:cyan;">การส่งอนุมัติหลักสูตร</mark> <mark style="color:cyan;">**สำหรับผู้จัดทำหลักสูตร**</mark>](curriculum-sent-approval.md)
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
