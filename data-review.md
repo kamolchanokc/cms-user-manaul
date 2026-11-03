@@ -1,9 +1,11 @@
 ---
-description: สำหรับผู้ตรวจสอบข้อมูล (กรรมการ / เจ้าหน้าที่ทะเบียน) และเจ้าหน้าที่หลักสูตรระดับคณะ
+description: >-
+  สำหรับผู้ตรวจสอบข้อมูล (กรรมการ / เจ้าหน้าที่ทะเบียน)
+  และเจ้าหน้าที่หลักสูตรระดับคณะ
 icon: list-check
 ---
 
-# การตรวจสอบข้อมูลหลักสูตร
+# การตรวจสอบข้อมูลหลักสูตร (ก่อนและหลังอนุมัติ)
 
 ก่อนและหลังการอนุมัติหลักสูตร ระบบมีขั้น **ตรวจสอบข้อมูล** เพื่อยืนยันว่าข้อมูลที่คณะกรอกถูกต้องครบถ้วน แบ่งเป็น 2 ระยะ:
 
@@ -41,7 +43,7 @@ flowchart LR
 
 <figure><img src=".gitbook/assets/data-review/01-stage1-approval-card.png" alt="การ์ดตรวจสอบข้อมูลก่อนอนุมัติในหน้าการอนุมัติหลักสูตร"><figcaption><p>ตัวอย่าง: ยังไม่ถึงขั้นตรวจ — ขั้น 5–8 มีรูปกุญแจ (ล็อก)</p></figcaption></figure>
 
-<table><thead><tr><th width="220">ป้ายสถานะบนการ์ด</th><th>ความหมาย</th></tr></thead><tbody><tr><td>🕓 <strong>ยังไม่ถึงขั้นตรวจ</strong></td><td>ยังไม่ได้อนุมัติขั้นที่ 4 (นโยบาย ฯ) — ปุ่มตรวจกดไม่ได้</td></tr><tr><td>🔒 <strong>ยังตรวจไม่ผ่านครบ</strong></td><td>ตรวจได้แล้ว แต่ยังไม่ผ่านครบทุกแท็บย่อย — ขั้น 5–8 ยังล็อก</td></tr><tr><td>✅ <strong>ตรวจผ่านครบแล้ว</strong></td><td>ขั้น 5–8 ปลดล็อก กรอกการอนุมัติต่อได้</td></tr></tbody></table>
+<table><thead><tr><th width="220">ป้ายสถานะบนการ์ด</th><th>ความหมาย</th></tr></thead><tbody><tr><td>🕓 <strong>ยังไม่ถึงขั้นตรวจ</strong></td><td>ยังไม่ได้อนุมัติขั้นที่ 4 (นโยบาย ฯ) — ปุ่มตรวจกดไม่ได้</td></tr><tr><td>🔒 <strong>ยังตรวจไม่ครบ</strong></td><td>ตรวจได้แล้ว แต่ยังไม่ผ่านครบทุกแท็บย่อย — ขั้น 5–8 ยังล็อก</td></tr><tr><td>✅ <strong>ตรวจผ่านครบแล้ว</strong></td><td>ขั้น 5–8 ปลดล็อก กรอกการอนุมัติต่อได้</td></tr></tbody></table>
 
 {% hint style="warning" %}
 แถบสีส้ม "กรอกได้ถึงนโยบาย ฯ เท่านั้น — สภามหาวิทยาลัย · สป.อว. · ก.พ. · ก.ค.ศ. จะปลดล็อกเมื่อตรวจสอบข้อมูลผ่านครบทุกแท็บย่อยแล้ว" จะแสดงจนกว่าจะตรวจผ่านครบ ผู้ที่มีสิทธิ์อนุมัติแต่ไม่มีสิทธิ์ตรวจ จะเห็นแค่สถานะ ไม่เห็นปุ่มตรวจ
@@ -255,9 +257,9 @@ flowchart LR
 
 ปุ่มกดได้เมื่อตรวจครบทุกรายการ (ไม่เหลือ "ยังไม่ตรวจ") ปุ่มจะเปลี่ยนตามผล:
 
-<figure><img src=".gitbook/assets/data-review/14-stage2-finish-dialog.png" alt="หน้าต่างเสร็จสิ้นการตรวจสอบ" width="500"><figcaption><p>ตัวอย่างแบบผ่านครบ: รอบที่ 3 ผ่าน 168 ไม่ผ่าน 0 — กด "ยืนยันเสร็จสิ้นการตรวจสอบ" เพื่อปิดรอบ</p></figcaption></figure>
+<div align="center" data-with-frame="true"><figure><img src=".gitbook/assets/data-review/14-stage2-finish-dialog.png" alt="หน้าต่างเสร็จสิ้นการตรวจสอบ" width="500"><figcaption><p>ตัวอย่างแบบผ่านครบ: รอบที่ 3 ผ่าน 168 ไม่ผ่าน 0 — กด "ยืนยันเสร็จสิ้นการตรวจสอบ" เพื่อปิดรอบ</p></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/data-review/15-stage2-finish-issues-dialog.png" alt="หน้าต่างเสร็จสิ้นการตรวจสอบ พบข้อมูลที่ต้องแก้ไข" width="500"><figcaption><p>ตัวอย่างแบบพบข้อแก้: ผ่าน 28 ไม่ผ่าน 1 — ต้องพิมพ์ "สิ่งที่ต้องแก้ไข / เหตุผลที่ต้องตรวจสอบซ้ำ" แล้วกด "ยืนยัน"</p></figcaption></figure>
+<div align="center" data-with-frame="true"><figure><img src=".gitbook/assets/data-review/15-stage2-finish-issues-dialog.png" alt="หน้าต่างเสร็จสิ้นการตรวจสอบ พบข้อมูลที่ต้องแก้ไข" width="500"><figcaption><p>ตัวอย่างแบบพบข้อแก้: ผ่าน 28 ไม่ผ่าน 1 — ต้องพิมพ์ "สิ่งที่ต้องแก้ไข / เหตุผลที่ต้องตรวจสอบซ้ำ" แล้วกด "ยืนยัน"</p></figcaption></figure></div>
 
 <table><thead><tr><th width="320">ปุ่ม</th><th>เมื่อกดแล้ว</th></tr></thead><tbody><tr><td>🟢 <strong>เสร็จสิ้นการตรวจสอบ</strong> (ผ่านครบ)</td><td>ใส่หมายเหตุได้ (ถ้ามี) → ปิดรอบ หลักสูตรเป็น <strong>"ผ่านการตรวจสอบครบถ้วน"</strong> จบงาน</td></tr><tr><td>🟠 <strong>เสร็จสิ้นการตรวจสอบ (พบข้อมูลที่ต้องแก้ไข)</strong></td><td>ต้องระบุ <strong>"สิ่งที่ต้องแก้ไข / เหตุผลที่ต้องตรวจสอบซ้ำ"</strong> → ปิดรอบเป็นประวัติ เปิดรอบใหม่ หลักสูตรเป็น <strong>"พบข้อที่ต้องแก้ไข"</strong> และส่งอีเมลแจ้งคณะ</td></tr></tbody></table>
 
@@ -269,7 +271,7 @@ flowchart LR
 
 เมื่อทะเบียนปิดรอบแบบพบข้อแก้ หน้ารายละเอียดหลักสูตรจะมีแถบสีส้ม:
 
-<figure><img src=".gitbook/assets/data-review/30-faculty-recheck-banner.png" alt="แถบแจ้งเจ้าหน้าที่ทะเบียนพบข้อมูลที่ต้องแก้ไข"><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/data-review/30-faculty-recheck-banner.png" alt="แถบแจ้งเจ้าหน้าที่ทะเบียนพบข้อมูลที่ต้องแก้ไข"><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}

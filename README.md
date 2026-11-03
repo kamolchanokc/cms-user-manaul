@@ -45,7 +45,9 @@ layout:
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-## 💡 เมนูแนะนำ
+
+
+## 💡 เมนูแนะนำสำหรับเจ้าหน้าที่คณะผู้กรอกข้อมูล
 
 {% hint style="info" icon="grid-4" %}
 [<mark style="color:cyan;">**ภาพรวมระบบ**</mark>](overview.md)
