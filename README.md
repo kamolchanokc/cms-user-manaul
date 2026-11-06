@@ -1,5 +1,5 @@
 ---
-description: 'เวอร์ชันอัปเดตวันที่ 2 พฤศจิกายน 2569'
+description: 'เวอร์ชั่นอัปเดต วันที่ 2 พฤศจิกายน 2569'
 icon: apartment
 cover: .gitbook/assets/cms-login-overview.png.png
 coverY: 0
